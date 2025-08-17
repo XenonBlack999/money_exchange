@@ -22,4 +22,4 @@ To use the **Exchange Terminal Tool**, follow the steps below:
 1. **Clone the Repository**:
    If you haven't already, clone this repository to your local machine:
    ```bash
-   git clone https://github.com/XenonBlack999/moneyexchange.git
+   git clone https://github.com/XenonBlack999/money_exchange.git
